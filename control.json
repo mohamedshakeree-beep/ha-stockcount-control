@@ -1,1 +1,13 @@
-{"users": [], "blocked": [], "message": "", "offline_grace_days": 14}
+{
+  "users": [
+    {
+      "machine": "0FC3-2E1F-F465-EACC",
+      "name": "Mohamed",
+      "role": "full",
+      "expires": ""
+    }
+  ],
+  "blocked": [],
+  "message": "",
+  "offline_grace_days": 14
+}
