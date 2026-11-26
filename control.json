@@ -5,6 +5,12 @@
       "name": "Mohamed",
       "role": "full",
       "expires": ""
+    },
+    {
+      "machine": "E0C5-D6C0-4E14-2B18",
+      "name": "Mohamed Shaker Work",
+      "role": "full",
+      "expires": "2026-12-01"
     }
   ],
   "blocked": [],
